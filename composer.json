@@ -1,6 +1,6 @@
 {
   "require": {
-    "laravel/framework": "~4.2.17",
+    "laravel/framework": "~5.3.31",
     "patchwork/utf8": "~1.2"
   },
   "require-dev": {
