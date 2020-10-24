@@ -4,7 +4,7 @@
     "patchwork/utf8": "~1.2"
   },
   "require-dev": {
-    "Codeception/Codeception": "2.1.x-dev",
+    "Codeception/Codeception": "4.1.9",
     "flow/jsonpath": "~0.2"
   },
   "autoload": {
